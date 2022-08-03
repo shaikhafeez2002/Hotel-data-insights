@@ -1,1 +1,1 @@
-# Hotel-data-insights
+# Sales-data-insights
